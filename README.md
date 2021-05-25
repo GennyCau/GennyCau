@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m currently learning Python for Machine Learning and Deep Learning
-- 📫 How to reach me: gennycau.chem@gmail.com
+📫 How to reach me: gennycau.chem@gmail.com
 
 
 ![Genny's GitHub stats](https://github-readme-stats.vercel.app/api?username=GennyCau&show_icons=true&theme=dracula)
